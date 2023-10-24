@@ -1,0 +1,17 @@
+C:\Nackademin\LeaugeTable\LeaugeTable\obj\Debug\net7.0\LeaugeTable.csproj.AssemblyReference.cache
+C:\Nackademin\LeaugeTable\LeaugeTable\obj\Debug\net7.0\LeaugeTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\LeaugeTable\LeaugeTable\obj\Debug\net7.0\LeaugeTable.AssemblyInfoInputs.cache
+C:\Nackademin\LeaugeTable\LeaugeTable\obj\Debug\net7.0\LeaugeTable.AssemblyInfo.cs
+C:\Nackademin\LeaugeTable\LeaugeTable\obj\Debug\net7.0\LeaugeTable.csproj.CoreCompileInputs.cache
+C:\Nackademin\LeaugeTable\LeaugeTable\bin\Debug\net7.0\LeaugeTable.exe
+C:\Nackademin\LeaugeTable\LeaugeTable\bin\Debug\net7.0\LeaugeTable.deps.json
+C:\Nackademin\LeaugeTable\LeaugeTable\bin\Debug\net7.0\LeaugeTable.runtimeconfig.json
+C:\Nackademin\LeaugeTable\LeaugeTable\bin\Debug\net7.0\LeaugeTable.dll
+C:\Nackademin\LeaugeTable\LeaugeTable\bin\Debug\net7.0\LeaugeTable.pdb
+C:\Nackademin\LeaugeTable\LeaugeTable\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Nackademin\LeaugeTable\LeaugeTable\obj\Debug\net7.0\LeaugeTable.csproj.CopyComplete
+C:\Nackademin\LeaugeTable\LeaugeTable\obj\Debug\net7.0\LeaugeTable.dll
+C:\Nackademin\LeaugeTable\LeaugeTable\obj\Debug\net7.0\refint\LeaugeTable.dll
+C:\Nackademin\LeaugeTable\LeaugeTable\obj\Debug\net7.0\LeaugeTable.pdb
+C:\Nackademin\LeaugeTable\LeaugeTable\obj\Debug\net7.0\LeaugeTable.genruntimeconfig.cache
+C:\Nackademin\LeaugeTable\LeaugeTable\obj\Debug\net7.0\ref\LeaugeTable.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wYh/4EmIsz0uAterO9pwMKGDRg26p1DO0c6pZ2EEg+WNCrzTDAe3DNiW7nX1DQZ5ysyUoKGQa3F7k2UsMQ+Orw==",
+  "success": true,
+  "projectFilePath": "C:\\Nackademin\\LeaugeTable\\LeaugeTable\\LeaugeTable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marcu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
